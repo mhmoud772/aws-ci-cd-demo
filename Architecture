@@ -1,0 +1,9 @@
+GitHub
+  ↓
+CodePipeline
+  ↓
+CodeBuild
+  ↓
+S3 (Artifacts)
+  ↓
+EC2 (Deploy)
